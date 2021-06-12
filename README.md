@@ -14,6 +14,6 @@ Output folder - the results will be saved in this folder.
 
 For part2:
 Open terminal and enter:
-''' python
+``` python
 python pipeline.py
-'''
+```
